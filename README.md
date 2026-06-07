@@ -1,4 +1,4 @@
-# 🌟 Doodle2 Portfolio
+# 🌟 Animated Portfolio
 
 Welcome to the 🤩 cute and colorful portfolio page built in `doodle2.html`!
 
