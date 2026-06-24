@@ -11,6 +11,8 @@ Welcome to an **innovative and animated portfolio** built with `Animated.html`! 
 
 Designed to captivate and engage, this portfolio combines elegant animations with professional presentation.
 
+![image](https://github.com/Itsyashasvibhati/Animated_Portfolio/blob/343016ebe96adf6db4a51b7a52ac28eee4f3042a/Animated1.png)
+
 ---
 ## 🎥 Demo Video
 ![image](https://github.com/Itsyashasvibhati/Animated_Portfolio/blob/c1dd984617a8e1722707aec2f35375992926f2a3/Animated_video.mp4) 
