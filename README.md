@@ -51,7 +51,7 @@ Designed to captivate and engage, this portfolio combines elegant animations wit
 
 
 ---
-
+![image](https://github.com/Itsyashasvibhati/Animated_Portfolio/blob/cbba6d9e5267cbd6298415084feb0b8eaadde9d7/Animatedshot6.png)
 ## 🚀 Quick Start
 
 ### Option 1: Open in Browser
