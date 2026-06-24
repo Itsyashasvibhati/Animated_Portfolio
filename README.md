@@ -40,6 +40,8 @@ Designed to captivate and engage, this portfolio combines elegant animations wit
 | **Content Creator** | Creative work and digital presence highlights |
 | **Contact** | Multiple channels to connect and collaborate |
 
+![image](https://github.com/Itsyashasvibhati/Animated_Portfolio/blob/bb2f0e724766bc4e1b863648779062ec067744b0/Animated4.png)
+
 ### 🎪 Interactive Elements
 ✓ Smooth scrolling animations  
 ✓ Hover effects on all interactive elements  
