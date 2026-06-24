@@ -3,6 +3,7 @@
 > *A vibrant, interactive portfolio experience with stunning animations and dynamic effects*
 
 ---
+![image](https://github.com/Itsyashasvibhati/Animated_Portfolio/blob/0830b95b460d2b147b0e7339f9f35c1d6a761571/Animatedshot2.png)
 
 ## 🎯 About This Project
 
