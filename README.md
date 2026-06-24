@@ -28,6 +28,8 @@ Designed to captivate and engage, this portfolio combines elegant animations wit
 - **Smooth animations** that respond to user interactions
 - **Custom cursor effect** — a dynamic dot & ring that follows your mouse movement
 
+![image](https://github.com/Itsyashasvibhati/Animated_Portfolio/blob/b61e1d660735842b08fceafedfdd4144c65fe336/Animated2.png)
+
 ### 🌈 Content Sections
 
 | Section | Features |
